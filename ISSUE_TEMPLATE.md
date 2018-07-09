@@ -13,6 +13,6 @@
 *A paragraph describing your proposal*
 
 
-**Speaker Bio** (optional)
+**Speaker Bio**
 
 *Short bio of the speaker*
