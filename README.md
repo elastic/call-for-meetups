@@ -5,12 +5,12 @@ This repository is used to share and discuss talks for the Elastic meetups world
 
 ## Submit a Talk
 
-Have something cool to share with the community? [Open an issue to submit a talk](/issues/new).
+Have something cool to share with the community? [Open an issue to submit a talk](../../issues/new).
 
 
 ## Request a Talk
 
-Have a topic that you are interested in and somebody in the community could talk about it? [Open an issue to request a talk](/issues/new?template=REQUEST.md).
+Have a topic that you are interested in and somebody in the community could talk about it? [Open an issue to request a talk](../../issues/new?template=REQUEST.md).
 
 
 ## Code of Conduct
