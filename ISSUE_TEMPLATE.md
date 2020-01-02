@@ -1,7 +1,7 @@
 * **Title**:
 * **Speaker**:
-* **City**:
-* **Country**:
+* **City**: [Virtual if submitting for virtual meetup]
+* **Country**: [Virtual if submitting for virtual meetup]
 * **Language**:
 * **Type**: [Presentation 30-45 mins | Lightning talk 5-10 mins]
 * **Level**: [Introduction | Standard | Advanced]
