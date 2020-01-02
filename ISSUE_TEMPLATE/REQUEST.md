@@ -1,6 +1,6 @@
 * **Title**:
-* **City**:
-* **Country**:
+* **City**: [Virtual if submitting for virtual meetup]
+* **Country**: [Virtual if submitting for virtual meetup]
 * **Level**: [Introduction | Standard | Advanced]
 * **Tags**: [monitoring, devops, live-coding, workshop,...]
 
