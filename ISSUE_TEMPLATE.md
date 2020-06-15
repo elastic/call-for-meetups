@@ -16,3 +16,9 @@
 **Speaker Bio**
 
 *Short bio of the speaker*
+
+Assign to the Community team:
+
+Africa, Europe, Middle East: @daliyasp and @ossanna16
+Asia, Austrailia, and Pacific: @y-michael
+North America and South America: @fw-at-elastic, @phoebequincy, and @ullyta
