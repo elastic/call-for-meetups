@@ -17,7 +17,7 @@
 
 *Short bio of the speaker*
 
-Assign to the Community team:
+**Assign to the Community team**
 
 Africa, Europe, Middle East: @daliyasp and @ossanna16
 Asia, Austrailia, and Pacific: @y-michael
