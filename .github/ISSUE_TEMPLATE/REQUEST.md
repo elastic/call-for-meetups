@@ -1,3 +1,8 @@
+---
+name: Suggest a talk
+description: Let's get the meetup started and we always need your talks :)
+---
+
 * **Title**:
 * **Speaker**:
 * **City**: [Virtual if submitting for virtual meetup]
@@ -5,7 +10,7 @@
 * **Language**:
 * **Type**: [Presentation 30-45 mins | Lightning talk 5-10 mins]
 * **Level**: [Introduction | Standard | Advanced]
-* **Tags**: [monitoring, devops, live-coding, workshop,...]
+* **Tags**: [search, observability, security, live-coding, workshop,...]
 
 
 **Description**
