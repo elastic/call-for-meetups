@@ -1,6 +1,6 @@
 ---
 name: Suggest a talk
-description: Let's get the meetup started and we always need your talks :)
+about: Let's get the meetup started and we always need your talks :)
 ---
 
 * **Title**:
