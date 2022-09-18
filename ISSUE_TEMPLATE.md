@@ -19,6 +19,6 @@
 
 **Assign to the Community team**
 
-Africa, Europe, Middle East: @adriennedevries
-Asia, Austrailia, and Pacific: @y-michael
-North America and South America: @fw-at-elastic and @ullyta
+Africa, Europe, Middle East: @adriennedevries and @naoiserush
+Asia, Australia, and Pacific: @Michael-Yang-Elastic
+North America and South America: @fw-at-elastic and @oliviapetrie12
