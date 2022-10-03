@@ -9,7 +9,7 @@ If you have any other questions, please contact us at **meetups@elastic.co**! We
 
 ## Submit a Talk
 
-Have something cool to share with the community? [Open an issue to submit a talk](../../issues/new).
+Have something cool to share with the community? [Open an issue to submit a talk](../../issues/new?template=SUBMIT.md).
 
 
 ## Request a Talk
