@@ -25,5 +25,6 @@ about: Let's get the meetup started and we always need your talks :)
 **Assign to the Community team**
 
 Africa, Europe, Middle East: @adriennedevries and @naoiserush
-Asia, Australia, and Pacific: @Michael-Yang-Elastic
-North America and South America: @fw-at-elastic and @oliviapetrie12
+Asia, Australia, and Pacific: @ashishtiwari1993 and @markwalkom
+North America: @oliviapetrie12
+South America: @gabi-elastic
